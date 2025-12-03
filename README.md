@@ -1,17 +1,34 @@
-# ElevvopathsProjects
-Titanic Dataset - Exploratory Data Analysis
+# 🚢 Titanic Dataset – Exploratory Data Analysis (EDA)
 
-This project explores the Titanic dataset to uncover insights about passenger demographics, survival patterns, and key factors influencing survival rates. The analysis includes data cleaning, feature exploration, and visualization using Python libraries such as pandas, matplotlib, and seaborn.
+This project performs an in-depth exploratory analysis of the **Titanic dataset** to uncover patterns in passenger demographics, survival outcomes, and the factors that most influenced survival rates. The workflow includes data cleaning, feature exploration, and insightful visualizations using Python.
 
-Key steps include:
+---
 
-Handling missing values and feature engineering
+## 🔍 Key Steps in the Analysis
 
-Visualizing survival trends by gender, class, and age
+- **Data Cleaning & Preprocessing**  
+  Handled missing values, encoded features, and prepared the dataset for analysis.
 
-Correlation analysis and summary statistics
+- **Exploratory Visualization**  
+  Analyzed survival trends based on **gender**, **passenger class**, and **age groups** using statistical and graphical methods.
 
-Drawing insights from data-driven visualizations
+- **Feature & Correlation Analysis**  
+  Examined relationships between variables to identify which features played significant roles in survival rates.
 
-📊 Tools & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+- **Insights & Interpretation**  
+  Derived meaningful conclusions from visual patterns and summary statistics.
 
+---
+
+## 🧰 Tools & Libraries Used
+
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Jupyter Notebook**
+
+---
+
+This analysis provides a strong foundation for understanding the Titanic dataset and sets the stage for further modeling or machine learning tasks.
